@@ -1,0 +1,3 @@
+#requirements.txt
+Werkzeug==2.2.2
+Flask==2.0.2
